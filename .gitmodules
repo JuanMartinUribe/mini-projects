@@ -1,3 +1,6 @@
 [submodule "currency-convertor"]
 	path = currency-convertor
 	url = https://github.com/JuanMartinUribe/currency-convertor.git
+[submodule "eat-n-split"]
+	path = eat-n-split
+	url = https://github.com/JuanMartinUribe/eat-n-split.git
