@@ -4,3 +4,6 @@
 [submodule "eat-n-split"]
 	path = eat-n-split
 	url = https://github.com/JuanMartinUribe/eat-n-split.git
+[submodule "use-popcorn"]
+	path = use-popcorn
+	url = https://github.com/JuanMartinUribe/use-popcorn.git
