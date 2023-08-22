@@ -10,3 +10,6 @@
 [submodule "travel-list"]
 	path = travel-list
 	url = https://github.com/JuanMartinUribe/travel-list.git
+[submodule "bill-calculator"]
+	path = bill-calculator
+	url = https://github.com/JuanMartinUribe/bill-calculator.git
