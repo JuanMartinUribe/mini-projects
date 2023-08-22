@@ -7,3 +7,6 @@
 [submodule "use-popcorn"]
 	path = use-popcorn
 	url = https://github.com/JuanMartinUribe/use-popcorn.git
+[submodule "travel-list"]
+	path = travel-list
+	url = https://github.com/JuanMartinUribe/travel-list.git
